@@ -1,0 +1,27 @@
+advanced linux commands:
+netstat
+
+flag field
+
+nestat -s
+
+dig - information related to DNS servers
+
+uptime - reliaility of the channel in the network
+
+broadcasting channel -
+
+mesg [no/yes]:authority of the author to allow write permission to the users present in 
+
+
+w command, mv - move
+
+rename command- rename the file/directory 
+
+mv -move
+
+top - display the processes of CPU
+
+sudo - to authorize the roles of the user/to permit the rights
+
+mkpasswd -l number of characters to e there in the password
